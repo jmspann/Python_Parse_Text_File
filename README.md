@@ -52,41 +52,26 @@ Note that displaying .split() doesn’t change what is stored in the text variab
 
 </p>
 
-<h3>Task 2</h3>
+<h3>Task 5</h3>
 
 <p>
 
 </p>
 
-<h3>Task 2</h3>
+<h3>Task 6</h3>
 
 <p>
 
 </p>
 
-<h3>Task 2</h3>
+<h3>Task 7</h3>
 
 <p>
 
 </p>
 
-<h3>Task 2</h3>
 
-<p>
 
-</p>
-
-<h3>Task 2</h3>
-
-<p>
-
-</p>
-
-<h3>Task 2</h3>
-
-<p>
-
-</p>
 
 
 
